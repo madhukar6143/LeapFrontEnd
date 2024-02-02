@@ -1,0 +1,11 @@
+.main-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.todolist-header {
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
